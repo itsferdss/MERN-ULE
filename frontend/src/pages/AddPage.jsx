@@ -41,7 +41,7 @@ const AddPage = () => {
       <VStack
         spacing={8}
       >
-        <Heading as={"h1"} size={"2x1"} textAlign={"center"} mb={8}>
+        <Heading as={"h1"} fontsize={"2x1"} textAlign={"center"} mb={8}>
           Create a New Product
         </Heading>
 
